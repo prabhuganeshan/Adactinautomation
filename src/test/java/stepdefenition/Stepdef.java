@@ -28,7 +28,7 @@ public class Stepdef extends Utility {
 	
 	@After
 	public void screenshot(Scenario scenario) throws Throwable {
-		
+		System.out.println("executed successfully");
 		driver.quit();
 	}
 
