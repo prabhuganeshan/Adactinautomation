@@ -11,7 +11,7 @@ Feature: Book the hotel
 
 Examples: 
 |username      |password      |
-|Prabhu1305|Prabhu1305|
+|Prabhu130|Prabhu1305|
 
 
 
